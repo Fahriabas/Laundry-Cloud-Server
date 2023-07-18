@@ -1,0 +1,17 @@
+[
+    {
+        "email": "fahriabas@gmail.com",
+        "password": "fahri",
+        "role": "Seller"
+    },
+    {
+        "email": "helloworld@gmail.com",
+        "password": "helloworld",
+        "role": "Seller"
+    },
+    {
+        "email": "customer@gmail.com",
+        "password": "customer",
+        "role": "Customer"
+    }
+]

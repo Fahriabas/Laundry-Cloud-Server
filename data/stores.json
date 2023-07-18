@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Jw Laundry",
+        "location": "jl. Swadaya No.13, RT.002/004 Karang Tengah",
+        "imageUrl": "https://images.unsplash.com/photo-1545173168-9f1947eebb7f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGF1bmRyeXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "UserId": 1
+    },
+    {
+        "name": "Hello Laundry",
+        "location": "jl. Swadaya No.13, RT.002/004 Karang Tengah",
+        "imageUrl": "https://images.unsplash.com/photo-1635274605638-d44babc08a4f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGxhdW5kcnl8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
+        "UserId": 2
+    },
+    {
+        "name": "Tayo Laundry",
+        "location": "jl. Swadaya No.13, RT.002/004 Karang Tengah",
+        "imageUrl": "https://images.unsplash.com/photo-1545173168-9f1947eebb7f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGF1bmRyeXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "UserId": 1
+    },
+    {
+        "name": "Wash Xpress Laundry",
+        "location": "jl. Swadaya No.13, RT.002/004 Karang Tengah",
+        "imageUrl": "https://images.unsplash.com/photo-1545173168-9f1947eebb7f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGF1bmRyeXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "UserId": 2
+    },
+    {
+        "name": "Nanette Laundry",
+        "location": "jl. Swadaya No.13, RT.002/004 Karang Tengah",
+        "imageUrl": "https://images.unsplash.com/photo-1545173168-9f1947eebb7f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGF1bmRyeXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "UserId": 1
+    },
+    {
+        "name": "Power Clean Laundry",
+        "location": "jl. Swadaya No.13, RT.002/004 Karang Tengah",
+        "imageUrl": "https://images.unsplash.com/photo-1561053720-76cd73ff22c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bGF1bmRyeXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "UserId": 2
+    },
+    {
+        "name": "Clean Plus Laundry",
+        "location": "jl. Swadaya No.13, RT.002/004 Karang Tengah",
+        "imageUrl": "https://images.unsplash.com/photo-1545173168-9f1947eebb7f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGF1bmRyeXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "UserId": 1
+    },
+    {
+        "name": "Wash Up Laundry",
+        "location": "jl. Swadaya No.13, RT.002/004 Karang Tengah",
+        "imageUrl": "https://images.unsplash.com/photo-1545173168-9f1947eebb7f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGF1bmRyeXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "UserId": 1
+    },
+    {
+        "name": "Wash Up Laundry",
+        "location": "jl. Swadaya No.13, RT.002/004 Karang Tengah",
+        "imageUrl": "https://images.unsplash.com/photo-1545173168-9f1947eebb7f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGF1bmRyeXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "UserId": 1
+    },
+    {
+        "name": "Wash Up Laundry",
+        "location": "jl. Swadaya No.13, RT.002/004 Karang Tengah",
+        "imageUrl": "https://images.unsplash.com/photo-1545173168-9f1947eebb7f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGF1bmRyeXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "UserId": 2
+    }
+]

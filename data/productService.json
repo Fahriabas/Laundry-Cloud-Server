@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Cuci kering",
+        "description": "",
+        "price": 6000,
+        "TypeId": 1,
+        "StoreId": 1
+    },
+    {
+        "name": "Cuci kering Setrika",
+        "description": "",
+        "price": 10000,
+        "TypeId": 1,
+        "StoreId": 1
+    },
+    {
+        "name": "Cuci kering Setrika Express",
+        "description": "1 hari selesai",
+        "price": 150000,
+        "TypeId": 1,
+        "StoreId": 1
+    },
+    {
+        "name": "Cuci kering",
+        "description": "",
+        "price": 6000,
+        "TypeId": 1,
+        "StoreId": 2
+    },
+    {
+        "name": "Cuci kering Setrika",
+        "description": "",
+        "price": 10000,
+        "TypeId": 1,
+        "StoreId": 2
+    },
+    {
+        "name": "Cuci kering Setrika Express",
+        "description": "1 hari selesai",
+        "price": 150000,
+        "TypeId": 1,
+        "StoreId": 2
+    },
+    {
+        "name": "Cuci kering",
+        "description": "",
+        "price": 6000,
+        "TypeId": 1,
+        "StoreId": 3
+    },
+    {
+        "name": "Cuci kering Setrika",
+        "description": "",
+        "price": 10000,
+        "TypeId": 1,
+        "StoreId": 3
+    },
+    {
+        "name": "Cuci kering Setrika Express",
+        "description": "1 hari selesai",
+        "price": 150000,
+        "TypeId": 1,
+        "StoreId": 3
+    },
+    {
+        "name": "Cuci kering",
+        "description": "",
+        "price": 6000,
+        "TypeId": 1,
+        "StoreId": 4
+    },
+    {
+        "name": "Cuci kering Setrika",
+        "description": "",
+        "price": 10000,
+        "TypeId": 1,
+        "StoreId": 4
+    },
+    {
+        "name": "Cuci kering Setrika Express",
+        "description": "1 hari selesai",
+        "price": 150000,
+        "TypeId": 1,
+        "StoreId": 4
+    },
+    {
+        "name": "Cuci kering",
+        "description": "",
+        "price": 6000,
+        "TypeId": 1,
+        "StoreId": 5
+    },
+    {
+        "name": "Cuci kering Setrika",
+        "description": "",
+        "price": 10000,
+        "TypeId": 1,
+        "StoreId": 5
+    },
+    {
+        "name": "Cuci kering Setrika Express",
+        "description": "1 hari selesai",
+        "price": 150000,
+        "TypeId": 1,
+        "StoreId": 5
+    },
+    {
+        "name": "Cuci kering",
+        "description": "",
+        "price": 6000,
+        "TypeId": 1,
+        "StoreId": 6
+    },
+    {
+        "name": "Cuci kering Setrika",
+        "description": "",
+        "price": 10000,
+        "TypeId": 1,
+        "StoreId": 6
+    },
+    {
+        "name": "Cuci kering Setrika Express",
+        "description": "1 hari selesai",
+        "price": 150000,
+        "TypeId": 1,
+        "StoreId": 6
+    },
+    {
+        "name": "Cuci kering",
+        "description": "",
+        "price": 6000,
+        "TypeId": 1,
+        "StoreId": 7
+    },
+    {
+        "name": "Cuci kering Setrika",
+        "description": "",
+        "price": 10000,
+        "TypeId": 1,
+        "StoreId": 7
+    },
+    {
+        "name": "Cuci kering Setrika Express",
+        "description": "1 hari selesai",
+        "price": 150000,
+        "TypeId": 1,
+        "StoreId": 7
+    },
+    {
+        "name": "Cuci kering",
+        "description": "",
+        "price": 6000,
+        "TypeId": 1,
+        "StoreId": 8
+    },
+    {
+        "name": "Cuci kering Setrika",
+        "description": "",
+        "price": 10000,
+        "TypeId": 1,
+        "StoreId": 8
+    },
+    {
+        "name": "Cuci kering Setrika Express",
+        "description": "1 hari selesai",
+        "price": 150000,
+        "TypeId": 1,
+        "StoreId": 8
+    },
+    {
+        "name": "Cuci kering",
+        "description": "",
+        "price": 6000,
+        "TypeId": 1,
+        "StoreId": 9
+    },
+    {
+        "name": "Cuci kering Setrika",
+        "description": "",
+        "price": 10000,
+        "TypeId": 1,
+        "StoreId": 9
+    },
+    {
+        "name": "Cuci kering Setrika Express",
+        "description": "1 hari selesai",
+        "price": 150000,
+        "TypeId": 1,
+        "StoreId": 9
+    },
+    {
+        "name": "Cuci kering",
+        "description": "",
+        "price": 6000,
+        "TypeId": 1,
+        "StoreId": 10
+    },
+    {
+        "name": "Cuci kering Setrika",
+        "description": "",
+        "price": 10000,
+        "TypeId": 1,
+        "StoreId": 10
+    },
+    {
+        "name": "Cuci kering Setrika Express",
+        "description": "1 hari selesai",
+        "price": 150000,
+        "TypeId": 1,
+        "StoreId": 10
+    }
+]
